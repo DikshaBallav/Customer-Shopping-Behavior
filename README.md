@@ -15,6 +15,7 @@ The project uses Python for data analysis, SQL and PostgreSQL for data querying,
 
 ## 📊 Dashboard Preview
 -The Power BI dashboard provides an interactive view of customer shopping behavior and helps identify important patterns across purchases, customer segments, product categories, and other behavioral factors.
+
 ![Customer Shopping Behavior Dashboard](customer_behavior_dashboard.png)
 
 ## 🛠️ Technologies Used
